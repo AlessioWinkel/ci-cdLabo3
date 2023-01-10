@@ -42,7 +42,7 @@
             </p>
 
             <p class="form-group ${foodClass}">
-                <label for="food">Aantal keer eten per dag:</label>
+                <label for="food">Aantal keer easdsadadadadsaten per dag:</label>
                 <input
                     id="food" name="food" type="number" class="error"
                     max="10" min="1" value="${foodPreviousValue}">
