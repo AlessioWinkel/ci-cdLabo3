@@ -27,3 +27,5 @@ jobs:
         with:
           push: true
           tags: alessiow01/maven:latest
+      - name: webhook
+        run: curl -X POST ${{ secrets.WEBHOOK_URL }}
