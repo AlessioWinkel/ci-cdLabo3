@@ -17,10 +17,7 @@
         <h2>Mijn liefste huisdieren</h2>
         <p>Maak kennis met mijn liefste huisdieren. Hoe heten ze, hoeveel
             eten ze, ... Ik noteer het hier allemaal.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia
-            culpa esse. Delectus nemo similique reiciendis provident quas sunt
-            fuga numquam neque quibusdam eum libero eius sit nam asperiores sequi
-            voluptatum!</p>
+        <p> Hallo dit is alessiow01 info</p>
         <p>Het laatste dier dat je hebt toegevoegd heet ${sessionScope.lastAddedAnimal.name} </p>
 
     </main>
