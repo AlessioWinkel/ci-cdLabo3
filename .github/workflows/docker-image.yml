@@ -26,6 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: alessiow01/maven:latest
-      - name: webhook
-        run: curl -X POST ${{ secrets.WEBHOOK_URL }}
+          tags: alessiow01/cicdlabo:latest
